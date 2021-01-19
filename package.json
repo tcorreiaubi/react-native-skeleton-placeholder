@@ -20,14 +20,14 @@
   "author": "Henrique Ramos <chenrique.ramos12@gmail.com> (https://github.com/chramos)",
   "license": "ISC",
   "devDependencies": {
-    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/masked-view": "elsaapp/masked-view#c2d4b5c8d01ba772e467a84bff4320d717902af2",
     "@types/prop-types": "^15.7.3",
     "@types/react": "^16.9.17",
     "@types/react-native": "^0.63.17",
     "typescript": "^4.0.2"
   },
   "peerDependencies": {
-    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/masked-view": "elsaapp/masked-view#c2d4b5c8d01ba772e467a84bff4320d717902af2",
     "react": ">=0.14.8",
     "react-native": ">=0.50.1"
   }
